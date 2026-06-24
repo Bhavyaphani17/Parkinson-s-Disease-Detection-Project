@@ -2,7 +2,7 @@ streamlit==1.47.0
 numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.5.2
-tensorflow-cpu==2.20.0
+tensorflow==2.16.1
 keras==3.12.1
 xgboost==3.2.0
 opencv-python-headless
